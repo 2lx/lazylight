@@ -1,4 +1,4 @@
-## A color scheme for Vim and NeoVim
+## A light color scheme for Vim and NeoVim
 ![screenshot: nvim](https://user-images.githubusercontent.com/1208782/197273885-8bf1ace3-a81f-47c0-aefa-1f63ed6a97a3.png)
 
 ## Installation
